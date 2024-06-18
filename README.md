@@ -13,3 +13,9 @@ This is a simple Tic Tac Toe game implemented in Python using the Pygame library
    git clone https://github.com/your-username/your-repository.git
    cd TicTacToe
    ```
+## Installation
+
+If you haven't installed Pygame yet, you can do so using pip:
+
+```bash
+pip install pygame
