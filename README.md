@@ -10,7 +10,7 @@ This is a simple Tic Tac Toe game implemented in Python using the Pygame library
 ## Installation
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Pablo1644/Tic-Tac-Toe-Game
    cd TicTacToe
    ```
 ## Installation
